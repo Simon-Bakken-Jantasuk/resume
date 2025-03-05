@@ -76,7 +76,7 @@ Oslo, Norway
 .section EDUCATION
 .
 .
-.item "Bjertnes Videregående skole" "Nittedal, Norway" "2021 - 2024"
+.item "Bjertnes Videregående skole" "Nittedal, Norway" "2020 - 2023"
 .list Studiespesialisering, Realfag 
 .
 .
